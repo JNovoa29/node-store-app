@@ -4,7 +4,7 @@
 
 ## Node & Database Screenshots:
 
-![image](./images/DB1)
+![image](./images/DB1.png)
 
 
 ### Utilizing MySQL, Javascript, & Node

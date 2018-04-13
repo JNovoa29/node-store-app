@@ -6,8 +6,7 @@
 
 ![image](./images/DB1.png)
 ![image](./images/DB2.png)
-![image](./images/NodeSS1.png)
-![image](./images/NodeSS2.png)
+![image](./images/NodeSS3.png)
 
 
 ### Utilizing MySQL, Javascript, & Node
